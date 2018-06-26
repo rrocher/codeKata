@@ -16,7 +16,7 @@ import java.util.stream.Stream;
  */
 /**
  *The first version of code kata will use simple stream and single threading 
- * to make the code more extendable
+ * to have a more readable code
  */
 public class App 
 {
